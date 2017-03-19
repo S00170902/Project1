@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UseByApp</string>
+    <string name="edit_message">Enter product name</string>
+    <string name="button_send">Send</string>
+    <string name="edit_message_1">Enter expiry date</string>
+    <string name="button_send_2">Send email alert</string>
+</resources>
